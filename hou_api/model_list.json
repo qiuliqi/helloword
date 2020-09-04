@@ -1,0 +1,40 @@
+{
+    "models": [
+        [
+            "hunqi/10510@",
+            "hunqi/11110@",
+            "hunqi/11190@",
+            "hunqi/11310@",
+            "hunqi/11810@",
+            "hunqi/12380@",
+            "hunqi/12610@",
+            "hunqi/12815@",
+            "hunqi/13130@",
+            "hunqi/13180@",
+            "hunqi/14110@",
+            "hunqi/16650@",
+            "hunqi/22020@"
+        ],
+        
+        [
+        	"yuezhan/bust_10101",
+        	"yuezhan/bust_10104",
+        	"yuezhan/bust_10105",
+        	"yuezhan/bust_10106",
+        	"yuezhan/bust_10107",
+        	"yuezhan/bust_10203",
+        	"yuezhan/bust_10206",
+        	"yuezhan/bust_10214",
+        	"yuezhan/bust_10301",
+        	"yuezhan/bust_10303",
+        	"yuezhan/bust_10411",
+        	"yuezhan/bust_10510",
+        	"yuezhan/bust_10903",
+        	"yuezhan/bust_30101"
+        ]
+    ],
+    "messages": [
+        "来自 魂器学院 的小可爱们",
+        "来自约战精灵 的小姐姐们"
+    ]
+}
