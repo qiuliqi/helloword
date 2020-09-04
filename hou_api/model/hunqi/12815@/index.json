@@ -44,11 +44,6 @@
     "intimacy_system": {}
   },
   "motions": {
-    "idle": [
-      {
-        "file": "motions/idle.mtn"
-      }
-    ],
     "tap": [
       {
         "file": "motions/setting_01.mtn"

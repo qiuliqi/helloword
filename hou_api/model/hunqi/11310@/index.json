@@ -46,11 +46,6 @@
     "intimacy_system": {}
   },
   "motions": {
-    "idle": [
-      {
-        "file": "motions/idle.mtn"
-      }
-    ],
     "tap": [
       {
         "file": "motions/gift_01.mtn"
