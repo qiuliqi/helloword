@@ -22,7 +22,6 @@ function loadWidget(config) {
 			<canvas id="live2d" width="800" height="800"></canvas>
 			<div id="waifu-tool">
 				<span class="fa fa-lg fa-comment"></span>
-				<span class="fa fa-lg fa-paper-plane"></span>
 				<span class="fa fa-lg fa-user-circle"></span>
 				<span class="fa fa-lg fa-street-view"></span>
 				<span class="fa fa-lg fa-camera-retro"></span>
