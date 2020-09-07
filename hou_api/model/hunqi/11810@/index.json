@@ -65,6 +65,25 @@
       {
         "file": "motions/touch_Bouquet.mtn"
       }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle.mtn"
+      }
+    ],
+    "tap_body": [
+      {
+        "file": "motions/gift_01.mtn"
+      },
+      {
+        "file": "motions/setting_01.mtn"
+      },
+      {
+        "file": "motions/touch_01_2.mtn"
+      },
+      {
+        "file": "motions/touch_Bouquet.mtn"
+      }
     ]
   },
   "options": {}

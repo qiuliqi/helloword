@@ -87,6 +87,25 @@
       {
         "file": "mot/touch_99.mtn"
       }
+    ],
+    "idle": [
+      {
+        "file": "mot/idle.mtn"
+      }
+    ],
+    "tap_body": [
+      {
+        "file": "mot/favor_01.mtn"
+      },
+      {
+        "file": "mot/gift_01.mtn"
+      },
+      {
+        "file": "mot/touch_99.mtn"
+      },
+      {
+        "file": "mot/touch_01_1.mtn"
+      }
     ]
   },
   "options": {}

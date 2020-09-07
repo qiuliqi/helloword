@@ -62,6 +62,25 @@
       {
         "file": "motions/touch_tail.mtn"
       }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle.mtn"
+      }
+    ],
+    "tap_body": [
+      {
+        "file": "motions/stay_01.mtn"
+      },
+      {
+        "file": "motions/touch_01_2.mtn"
+      },
+      {
+        "file": "motions/touch_99.mtn"
+      },
+      {
+        "file": "motions/touch_gift.mtn"
+      }
     ]
   },
   "options": {}

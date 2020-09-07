@@ -69,6 +69,17 @@
       {
         "file": "motions/touch_head.mtn"
       }
+    ],
+    "tap_body": [
+      {
+        "file": "motions/touch_head.mtn"
+      },
+      {
+        "file": "motions/touch_99.mtn"
+      },
+      {
+        "file": "motions/gift_01.mtn"
+      }
     ]
   },
   "options": {}

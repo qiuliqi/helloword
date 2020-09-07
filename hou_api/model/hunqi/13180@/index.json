@@ -59,6 +59,25 @@
       {
         "file": "motions/touch_robot_02.mtn"
       }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle.mtn"
+      }
+    ],
+    "tap_body": [
+      {
+        "file": "motions/favor_01.mtn"
+      },
+      {
+        "file": "motions/setting_01.mtn"
+      },
+      {
+        "file": "motions/touch_robot_01.mtn"
+      },
+      {
+        "file": "motions/touch_robot_02.mtn"
+      }
     ]
   },
   "options": {}
