@@ -122,7 +122,7 @@ Twisted==21.2.0
 twisted-iocpsupport==1.0.1
 typing-extensions==3.10.0.0
 tzlocal==2.1
-urllib3==1.24.3
+urllib3==1.26.5
 useragent==0.1.1
 w3lib==1.22.0
 Werkzeug==1.0.1
